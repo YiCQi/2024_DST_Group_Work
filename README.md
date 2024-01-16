@@ -1,1 +1,1 @@
-# 2024_DST_Group_Work
+# This is group work for 2024 DST course.
